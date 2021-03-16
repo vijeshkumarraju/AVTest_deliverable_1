@@ -11,17 +11,29 @@ Submission Requirements:
 
 The six sample test scenarios will be selected from the following six categories.
 
-Perform lane change/low-speed merge
+1. Perform lane change/low-speed merge
 
-Perform vehicle following
+<img src="https://github.com/IEEEAVTest2021/AVTest_deliverable_1/blob/main/images/lane_change.png" width="400">
 
-Move out of travel lane/park 
+2. Perform vehicle following
 
-Detect and respond to school buses 
+<img src="https://github.com/IEEEAVTest2021/AVTest_deliverable_1/blob/main/images/vehicle_following.png" width="220">
 
-Detect and respond to encroaching oncoming vehicles 
+3. Move out of travel lane/park 
 
-Detect and respond to pedestrians
+<img src="https://github.com/IEEEAVTest2021/AVTest_deliverable_1/blob/main/images/move_out_of_lane.png" width="400">
+
+4. Detect and respond to school buses
+
+<img src="https://github.com/IEEEAVTest2021/AVTest_deliverable_1/blob/main/images/school_bus.png" width="400">
+
+5. Detect and respond to encroaching oncoming vehicles 
+
+<img src="https://github.com/IEEEAVTest2021/AVTest_deliverable_1/blob/main/images/oncoming_vehicles.png" width="220">
+
+6. Detect and respond to pedestrians
+
+<img src="https://github.com/IEEEAVTest2021/AVTest_deliverable_1/blob/main/images/pedestrians.png" width="220">
 
 
 Reference: “A Framework for Automated Driving System Testable Cases and Scenarios” The United States National Highway Traffic Safety Administration. 
