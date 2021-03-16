@@ -9,7 +9,7 @@ Submission Requirements:
 -   	Scenario demo videos
 -   	Selected scenario trip/route and map information
 
-Note: please include your group ID and your group information (group members, email addresses, and affilications) in the submission.
+Note: please include your group ID and your group information (group members, email addresses, and affilications) in the submission by modifying the "Group_info" file.
 
 The six sample test scenarios will be selected from the following six categories.
 
