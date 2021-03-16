@@ -9,6 +9,8 @@ Submission Requirements:
 -   	Scenario demo videos
 -   	Selected scenario trip/route and map information
 
+Note: please include your group ID and your group information (group members, email addresses, and affilications) in the submission.
+
 The six sample test scenarios will be selected from the following six categories.
 
 1. Perform lane change/low-speed merge
